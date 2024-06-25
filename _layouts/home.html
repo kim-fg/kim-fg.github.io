@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{{ content }}
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
+
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for post in site.posts -%}
+    <li class="post-listing">
+        <a href="{{ post.url | relative_url }}" class="post-info">
+            <img src="/assets/images/{{post.thumb}}">
+            <div class="post-teaser">
+              <h6 class="post-listing-title">{{ post.title | escape }}</h6>
+              <ul>
+                {%- for bullet in post.bullets -%}
+                <li>
+                  <p>{{bullet}}</p>
+                </li>
+                {%- endfor -%}
+              </ul>
+            </div>
+            <p class="post-summary">{{post.summary}}</p>
+        </a> 
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

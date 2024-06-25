@@ -1,0 +1,51 @@
+.project-jumbo {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: auto;
+    height: 300px;
+    max-width: 90%;
+    display: block;
+}
+
+.post-listing {
+    clear: both;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.post-listing-title {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.post-info {
+    display: flex;
+    width: 80%;
+    padding: 10px;
+    border-bottom: dashed 1px rgba(219, 219, 219, 0.9);
+    text-decoration: none; 
+}
+.post-info img {
+    max-height: 100px;
+    padding-right: 10px;
+}
+.post-info:hover * {
+    background-color: #ddd;
+    color: black;
+    border-color: black;
+}
+
+.post-teaser {
+    border-right: dashed 1px rgba(219, 219, 219, 0.9);
+    padding-right: 20px;
+}
+
+.post-summary {
+    max-width: 40%;
+    padding: 10px;
+    align-self: center;
+    height: 100%;
+}
