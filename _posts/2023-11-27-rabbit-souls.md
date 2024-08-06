@@ -1,20 +1,19 @@
 ---
 layout: post
-title:  Harbingers Of New Dawn
-date:   2024-06-25 14:00:00 +0200
+title:  Rabbit Souls
+date:   2023-11-27 15:00:00 +0200
 categories: project futuregames
-thumb: projects/futuregames/hond_thumb.png
+thumb: projects/futuregames/rabbit_souls_thumb.png
 bullets:
-- "Project: GP3"
-- "Role: 3C/AI"
-- "Theme: Better Together"
-- "Players: Up to 4 (CO-OP)"
-embed: <iframe frameborder="0" src="https://itch.io/embed/2795032" width="552" height="167"><a href="https://futuregames.itch.io/harbingers-of-new-dawn">Harbingers of New Dawn by Futuregames</a></iframe>
+- "Project: GP1"
+- "Role: 3C/AI/Gamemode"
+- "Theme: Moving Slow"
+- "Players: Singleplayer"
 summary: "
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollicitudin felis ac eros fringilla, eget convallis mi posuere. Nulla ut ultricies tortor, vel faucibus quam.
 "
 ---
-# Harbingers of New Dawn
+# Rabbit Souls
 
 
 
@@ -37,3 +36,5 @@ Ut elementum euismod mattis. Vivamus in enim eu elit placerat dictum et sit amet
 Vivamus id molestie massa. Ut posuere dui non leo condimentum, sit amet luctus nibh pulvinar. Quisque imperdiet, eros non lobortis consectetur, quam nibh dapibus turpis, volutpat gravida tortor dui eget lorem. Duis et imperdiet dui, sit amet facilisis lacus. Maecenas consectetur iaculis nulla, sit amet elementum magna mollis eu. Aenean condimentum neque ut mauris dictum rhoncus. Etiam ullamcorper neque a mauris malesuada, sit amet interdum felis pharetra. Ut urna libero, congue ac tortor vel, volutpat viverra lorem.
 
 Aliquam rutrum eleifend leo, vitae porttitor urna sollicitudin sit amet. Nulla non finibus sem, mollis dignissim nibh. Donec non dignissim leo, nec vulputate arcu. Fusce sagittis sodales gravida. Integer convallis efficitur bibendum. Fusce placerat turpis nec elit molestie molestie. In diam est, ornare a leo non, commodo ullamcorper turpis. Proin est libero, ultricies sit amet velit a, porta facilisis eros. Suspendisse sagittis placerat felis, non malesuada mi aliquam non. Interdum et malesuada fames ac ante ipsum primis in faucibus. In convallis justo a diam mattis pulvinar. Pellentesque blandit eleifend placerat. Duis in tortor sollicitudin, tempus mi sit amet, viverra tellus. Nunc tellus odio, rhoncus sit amet tincidunt fermentum, molestie id leo. Maecenas hendrerit hendrerit ante egestas mollis. Etiam malesuada lectus nec diam tristique, ut scelerisque est feugiat. 
+
+<iframe src="https://itch.io/embed/2392002" width="552" height="167" frameborder="0"><a href="//www.futuregames.itch.io/rabbit-souls">Rabbit Souls by Futuregames, Danaiii</a></iframe>

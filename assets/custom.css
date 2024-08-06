@@ -1,8 +1,8 @@
 .project-jumbo {
     border: 1px solid #ddd;
     border-radius: 10px;
-    /* margin: 0px; this doesnt affect anything */
-    /* height: 10px; this doesnt affect anything */
+    margin: 0px;
+    height: 400px;
     display: block;
 }
 
