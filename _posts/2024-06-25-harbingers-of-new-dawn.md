@@ -6,17 +6,13 @@ categories: project futuregames
 thumb: projects/futuregames/hond_thumb.png
 bullets:
 - "Project: GP3"
-- "Role: 3C/AI"
+- "Role: 3C/AI/UI/Net"
 - "Theme: Better Together"
-- "Players: Up to 4 (CO-OP)"
-embed: <iframe frameborder="0" src="https://itch.io/embed/2795032" width="552" height="167"><a href="https://futuregames.itch.io/harbingers-of-new-dawn">Harbingers of New Dawn by Futuregames</a></iframe>
-summary: "
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollicitudin felis ac eros fringilla, eget convallis mi posuere. Nulla ut ultricies tortor, vel faucibus quam.
-"
+- "Players: 4 Player online Co-Op"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollicitudin felis ac eros fringilla, eget convallis mi posuere. Nulla ut ultricies tortor, vel faucibus quam."
+embed: <iframe src="https://itch.io/embed/2795032" frameborder="0" width="552" height="167"><a href="https://futuregames.itch.io/harbingers-of-new-dawn">Harbingers of New Dawn by Futuregames, Team 05</a></iframe>
 ---
 # Harbingers of New Dawn
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium rhoncus lacus id facilisis. Nullam sed sollicitudin mi, sed ullamcorper mi. Aliquam non nibh in metus commodo malesuada vitae ac quam. Vivamus dapibus quis felis at rutrum. Mauris aliquet iaculis semper. Donec vitae interdum erat, non dictum risus. Sed hendrerit est eget leo rhoncus suscipit. Nulla vitae risus a dolor dapibus dapibus sit amet in magna. Vivamus pharetra ligula a sem facilisis placerat. Etiam nec nisi vel lorem sagittis suscipit. Sed efficitur pulvinar vulputate. Fusce lacus turpis, rhoncus in erat eu, consequat suscipit turpis. Nam sed turpis pulvinar, pharetra quam a, euismod mi. Aliquam erat volutpat. Aliquam et elit sit amet diam finibus rutrum sit amet eu nunc.
 
