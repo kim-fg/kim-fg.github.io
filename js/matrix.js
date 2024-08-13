@@ -20,7 +20,7 @@ window.onload = () => {
     columns = Math.floor(width / 20) + 1;
     yPositions = Array(columns).fill(0);
 
-    setInterval(matrix, 50);
+    setInterval(matrix, 100);
 };
 
 function matrix() {

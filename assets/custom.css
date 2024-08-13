@@ -1,5 +1,5 @@
 .project-jumbo {
-    border: 1px solid #ddd;
+    border: 1px solid #00ff00;
     border-radius: 10px;
     margin: 0px;
     height: 400px;
@@ -24,7 +24,7 @@
     display: flex;
     width: 80%;
     padding: 10px;
-    border-bottom: dashed 1px rgba(219, 219, 219, 0.9);
+    border-bottom: dashed 1px #00ff00;
     text-decoration: none; 
 }
 .post-info img {
@@ -38,7 +38,7 @@
 }
 
 .post-teaser {
-    border-right: dashed 1px rgba(219, 219, 219, 0.9);
+    border-right: dashed 1px #00ff00;
     padding-right: 20px;
 }
 
@@ -47,4 +47,8 @@
     padding: 10px;
     align-self: center;
     height: 100%;
+}
+
+#matrix {
+    display: none;
 }
