@@ -31,8 +31,7 @@ github_username:  kim-fg
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-console
-remote_theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 plugins:
   - jekyll-feed
