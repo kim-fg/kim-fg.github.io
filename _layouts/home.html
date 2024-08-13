@@ -12,7 +12,7 @@ layout: default
         <a href="{{ post.url | relative_url }}" class="post-info">
             <img src="/assets/images/{{post.thumb}}">
             <div class="post-teaser">
-              <h6 class="post-listing-title">{{ post.title | escape }}</h6>
+              <h3 class="post-listing-title">{{ post.title | escape }}</h3>
               <ul>
                 {%- for bullet in post.bullets -%}
                 <li>
