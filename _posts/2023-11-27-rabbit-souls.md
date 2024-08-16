@@ -18,8 +18,8 @@ summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sollicitud
 Embark on a chilling adventure in "Rabbit Souls", a captivating game that combines strategy, stealth, and turn-based gameplay to deliver a gaming experience unexplored by many titles. Immerse yourself in an eerie world where you are the prey, and escape is the only option.
 
 ___
-## Role
-todo!
+## Experience
+The main responsibilities I had were setting up the characters, level interaction, and gamemode. A lot of the work in this project came from trying to solve issues for the level designers and artists; mainly making sure the grid would automatically conform to the geometry, and setting up prefabs that could later get models and textures. The codebase turned out really robust, and some of the tools made it to a "drop-in" package that I've later reused. As I was assigned lead programmer by my team, I spent a lot of the time during the project helping them sort out issues. They grew quite quickly and I'm quite proud to say that I got a lot of positive feedback from them after the project was finished.
 
 ___
 <iframe src="https://www.itch.io/embed/2392002" width="552" height="167" frameborder="0"><a href="https://futuregames.itch.io/rabbit-souls">Rabbit Souls by Futuregames, Team 01</a></iframe>
