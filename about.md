@@ -7,13 +7,15 @@ permalink: /about/
 
 # Joakim "Kim" Linna (He/Him)
 
-I'm a game programmer, trying everything and enjoying the process. Current goal is working as a tools/engine programmer at a studio in or near Malmö. Originally from stockholm but fell in love with Malmö in less than a week. Never looked back.
-
+I'm a game programmer, trying everything and enjoying the process. Current goal is working as a tools/engine programmer at a studio in or near Malmö. Originally from Stockholm but fell in love with Malmö in less than a week. Never looked back.
 
 ## Specialization
 - Engine and Tools
 - Procedural Generation
 - C#/Unity & C++/Unreal
+
+## Contact Info
+- E-Mail: joakim.linna (at) edu.futuregames.nu
 
 ## Hobbies
 - Skateboarder for 10 years 
